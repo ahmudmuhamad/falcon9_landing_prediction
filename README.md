@@ -8,7 +8,7 @@ Falcon 9 successful landing:
 
 ## Project Overview
 
-This project aims to predict the success of Falcon 9 landings using historical launch data. The process involved several key steps, including web scraping, exploratory data analysis (EDA), training label determination, geographical analysis, machine learning model development, and deployment of the predictive model using a Streamlit application.
+This project aims to predict the success of Falcon 9 landings using historical launch data. The process involved several key steps: web scraping, exploratory data analysis (EDA), training label determination, geographical analysis, and machine learning model development.
 
 ## Project Steps
 
